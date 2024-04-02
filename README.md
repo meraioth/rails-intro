@@ -11,5 +11,4 @@ Requirements
 
 ERD
 
-![techschool](https://github.com/meraioth/rails-intro/assets/11747949/41307360-2664-4bd8-9940-74c626009fae)
-
+![techschool](https://github.com/meraioth/rails-intro/assets/11747949/abbe805d-f9fe-46af-b9d1-99828353fbe2)
