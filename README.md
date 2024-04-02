@@ -2,6 +2,7 @@
 TechSchool JSChile 2024
 
 Requirements
+
 [Ruby 2.7 or major](https://www.ruby-lang.org/en/documentation/installation/)
 
 [SQLite 3](https://www.sqlite.org/download.html)
