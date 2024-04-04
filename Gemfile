@@ -62,6 +62,9 @@ group :development do
   # debugging
   gem 'pry', '~> 0.14.2'
 
+  # para tener a mano la definicion de cada tabla
+  gem 'annotate'
+
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
 end
