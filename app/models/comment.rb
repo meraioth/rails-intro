@@ -15,4 +15,6 @@
 #
 class Comment < ApplicationRecord
   belongs_to :post
+
+  enum :reaction, [:like, :dislike]
 end
