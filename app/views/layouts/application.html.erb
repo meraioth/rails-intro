@@ -12,7 +12,10 @@
   </head>
 
   <body>
-    <main class="container mx-auto mt-28 px-5 flex">
+    <main class="container mx-auto mt-28 px-5 flex-row">
+      <div class="flex flex-row-reverse py-2">
+        <%= button_to("logout", destroy_user_session_path, method: :delete, form_class: "rounded-lg py-3 px-5 bg-red-600 text-white block font-medium") if current_user %>
+      </div>
       <%= yield %>
     </main>
   </body>
