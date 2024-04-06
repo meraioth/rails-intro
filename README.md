@@ -29,6 +29,7 @@ Agregamos librería para autenticación
 
     bundle add devise
     rails generate devise:install
+    rails generate devise User
 Esto nos creará el modelo user, que usaremos más adelante
 
 Opcionalmente podemos exportar las vistas para posterior modificación
